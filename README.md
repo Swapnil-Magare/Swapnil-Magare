@@ -1,9 +1,15 @@
-![logo]([https://github.com/Swapnil-Magare/Swapnil-Magare/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)])
+
+<img src="https://github.com/Swapnil-Magare/Swapnil-Magare/blob/main/gif/Git_Profile_Banner.gif?raw=true" alt="Git Profile Banner" height="280" width="1100">
+
 <h1 align="center">Hi <a target="_blank">
     <img src="https://github.com/theashishgavade/theashishgavade/blob/master/GIF/Hi.gif" width="30px" height="30px" />
   </a>, I'm Swapnil Magare <a target="_blank">
     <img src="https://github.com/theashishgavade/theashishgavade/blob/master/GIF/Earth.gif" width="30px" height="30px" style="max-width:100%;">
-  </a></h1>
+  </a>
+     <a target="_blank">
+    <img src="https://github.com/Swapnil-Magare/Swapnil-Magare/blob/main/gif/Rocket.gif?raw=true" width="30px" height="30px" />
+  </a>
+</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
@@ -14,7 +20,7 @@
 
 - 📫 How to reach me **Swapnilmagare0907@gmail.com**
 
-- 🤔 I'm looking for help with **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
+- 🤔 I'm looking for help with **Internships**
 
 
 <h3 align="left">💫 About Me:</h3>
@@ -59,11 +65,11 @@ I am a motivated Computer Science graduate skilled in Java, J2EE, SQL, and JDBC.
 <h3 align="left"> 📊 GitHub Stats:</h3>
 <p>
   &nbsp;<img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=swapnil-magare&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-  alt="swapnil-magare" />
-  
+    src="https://github-readme-stats.vercel.app/api?username=swapnil-magare&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="swapnil-magare" />
 </p>
-
+   <img align="right" src="https://github.com/Swapnil-Magare/Swapnil-Magare/blob/main/gif/Fire_flame.gif?raw=true" alt="Fire Flame" height="180" width="250">
+<p>
   <img align="center" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-magare&theme=dark&hide_border=false" 
   alt="swapnil-magare" />
